@@ -1,0 +1,6 @@
+kocha = input(str("ko'chani nomini kiriting\n>>>"))
+mahalla = input(str("mahallani nomini kiritng\n>>>"))
+tuman = input(str("tumanni nomini kiriting\n>>>"))
+viloyat = input(str("viloyat nomini kiriting\n>>>"))
+print (kocha, "ko'chasi", mahalla, "mahallasi", tuman, "tumani", viloyat, "viloyati")
+print(f"{kocha} kochasi , {mahalla} mahallasi , {tuman} tuman ,{viloyat} viloyati")
